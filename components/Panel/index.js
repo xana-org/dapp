@@ -103,7 +103,7 @@ const Panel = () => {
             <Flex flexDirection="row">
                 <Text
                     fontSize="40px"
-                    fontWeight="800"
+                    fontWeight="500"
                     bg="linear-gradient(to right, #3949AB , #8C9BEF)"
                     style={{
                         "WebkitBackgroundClip": "text",
